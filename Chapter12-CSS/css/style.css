@@ -1,4 +1,4 @@
-table{
+/*table{
 
 	border-collapse: collapse;
 }
@@ -20,4 +20,6 @@ tr:nth-child(even){
 body{
 
 	background-color: lightgreen;
-}
+}*/
+
+@import "detail.css";

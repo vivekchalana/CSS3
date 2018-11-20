@@ -1,0 +1,24 @@
+li{
+
+	list-style-type: none;
+}
+
+a:link{
+
+	background-color: yellow;
+}
+a:visited{
+
+	background-color: grey;
+}
+a:active{
+
+	background-color: green;
+}
+
+a:hover{
+
+	color: green;
+
+	background-color: purple;
+}

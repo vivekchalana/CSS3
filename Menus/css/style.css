@@ -1,0 +1,25 @@
+/*table{
+
+	border-collapse: collapse;
+}
+
+table,td,tr{
+
+	border: 1px solid black;
+}
+
+tr:nth-child(odd){
+
+	background-color: lightgrey;
+}
+tr:nth-child(even){
+
+	background-color: grey;
+}
+
+body{
+
+	background-color: lightgreen;
+}*/
+
+@import "detail.css";

@@ -1,31 +1,24 @@
-ul{
+.box{
 
-	padding: 10px;
-}
-
-a{
-	text-decoration: none;
-	color: grey;
-
-}
-
-li{
-
-	display: block;
-	width: 25%;
-	background-color: yellow;
+	width: 20px;
+	height: 20px;
 	border: 1px solid black;
-	box-sizing: border-box;
-	text-align: center;
+	padding: 20px;
 	float: left;
 
 }
 
-a:hover{
+.box:nth-child(odd){
 
-	text-decoration: underline;
+	background-color: tomato;
 
-	color: black;
-	cursor: progress;
 
+}
+.box:hover{
+
+	background-color: purple;
+}
+.box:nth-child(odd){
+
+	background-color: green;
 }

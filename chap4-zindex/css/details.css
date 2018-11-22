@@ -1,0 +1,156 @@
+
+
+#FirstPara{
+
+	background-color: lightblue;
+	margin: 2px;
+	border: 1px solid purple;
+	padding: 10px;
+	
+
+}
+
+
+
+#SecondPara{
+
+	background-color: lightblue;
+	margin: 2px;
+	border: 1px solid green;
+	padding: 0px;
+	
+
+}
+
+input{
+
+	margin: 3px;
+	border: 1px solid tomato;
+	padding: 0px;
+}
+
+
+div{
+
+	width: 100px;
+	height: 100px;
+	background-color: lightgrey;
+	margin: 0 auto;
+}
+
+
+span{
+
+	background-color: lightgrey;
+	width: 100px;
+	height: 100px;
+	display: block;
+
+}
+
+a{
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+p:before{
+	color: grey;
+	content: "Quotes: "
+}
+
+p:after{
+
+	color: grey;
+	content: "\21E2 Vivek Chalana";
+}
+p{
+
+	color: green;
+
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.box{
+
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	padding: 20px;
+	float: left;
+
+}
+
+.box:nth-child(odd){
+
+	background-color: tomato;
+
+
+}
+.box:hover{
+
+	background-color: purple;
+}
+.box:nth-child(odd){
+
+	background-color: green;
+}*/

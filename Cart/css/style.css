@@ -1,0 +1,39 @@
+.conatinerRow{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	margin-top: 25%;
+	flex-flow: row-reverse;
+
+
+}
+
+.card{
+	background-color: #EEEEFF;
+	padding: 10px;
+}
+
+.card--dark{
+	background-color: #656275;
+	padding: 10px;
+
+}
+
+.card__image{
+}
+
+.card__title{
+}	
+
+.card__body{
+}
+
+
+
+.card__title--light, .card__body--light{
+}
+button{
+
+	color: green;
+}
+

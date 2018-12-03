@@ -1,0 +1,19 @@
+.conatinerRow{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	margin-top: 10%;
+	flex-flow: wrap;
+	padding: 0px;
+	list-style-type: none;
+	/*width: 23%;*/
+
+
+}
+
+.cat1{
+
+
+
+
+}
